@@ -57,8 +57,10 @@ flutter:
   fonts:
     - family: Aveny
       fonts:
-        - asset: assets/fonts/AvenyTRegular.otf
-        - style: normal
+        - asset: fonts/AvenyTRegular.otf
+          style: normal
+        - asset: fonts/AvenyTMedium.otf
+          style: italic
   # fonts:
   #   - family: Schyler
   #     fonts:
